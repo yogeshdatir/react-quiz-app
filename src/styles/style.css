@@ -1,0 +1,25 @@
+.container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.resultBody {
+  width: 50%;
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid blue;
+}
+
+.questionBody {
+  width: 50%;
+  height: 50vh;
+  border: 2px solid blue;
+}
+
+.buttonSection {
+  
+}
